@@ -1,0 +1,14 @@
+# Keep this public repository limited to release materials; do not add source/build files.
+*.py
+*.pyc
+*.spec
+*.iss
+*.bat
+SSHStarter.exe
+*.exe
+requirements*.txt
+build/
+dist/
+__pycache__/
+.venv/
+.env
